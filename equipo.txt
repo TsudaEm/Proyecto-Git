@@ -1,3 +1,2 @@
 
-Linea pc B
-Linea PC A
+Linea pc B Linea PC A
